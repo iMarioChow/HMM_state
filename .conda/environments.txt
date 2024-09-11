@@ -1,0 +1,6 @@
+/Users/cyh/opt/anaconda3/envs/webscrap
+/Users/cyh/anaconda3
+/Users/cyh/Documents/anaconda3
+/Users/cyh/anaconda3/envs/newenvt
+/Users/cyh/Documents/anaconda3/envs/webscrap
+/Users/cyh/Documents/anaconda3/envs/webscrap_x86
